@@ -25,10 +25,10 @@
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a>
 </div>
 
-<div id="header" align-"center"> <h1>Stat</h1> </div>
+<!-- <div id="header" align-"center"> <h1>Stat</h1> </div>
 <div id-"stat" align="center">
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=nord_dark"/> -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonochka&theme=nord_dark"/>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonochka&theme=nord_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonochka&theme=nord_dark"/>
 </div>
 
